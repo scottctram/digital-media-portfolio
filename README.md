@@ -8,7 +8,7 @@ Welcome to my portfolio! Here you'll find a selection of my top projects in the 
    - **Description**: Developed a web application during the AWS x Riot Games hackathon to Globally Rank League of Legends teams of all regions and leagues.
    - [Top 10 Winner](https://lolglobalpowerrankings.devpost.com/project-gallery)
    - [DevPost Page](https://devpost.com/software/whitby-test)
-   - [Link to demo](https://ranking.lol)
+   - [Link to demo](https://rankings.lol)
    
 2. **[YRT Spatial Dashboard - Bus Routes & Stops](https://github.com/yourusername/YRT-Spatial-Dashboard)**
    - **Description**: Developed an interactive spatial dashboard for York Region Transit, displaying bus routes and stops. Utilized SQL queries to calculate intersections and directions between stops.

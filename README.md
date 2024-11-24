@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! Here you'll find a selection of my top projects in the fields of **GIS**, **game development**, and **digital media**. These projects showcase my technical skills and creativity in various domains including **web mapping**, **game design**, **data visualization**, and **machine learning**. Please explore the following projects:
 
-## Top Projects
+## Relevant Projects to Digital Media
 
 1. **[AWS x Riot Games Hackathon - Rankings.LOL](https://rankings.lol/)**
    - **Description**: Developed a web application during the AWS x Riot Games hackathon to Globally Rank League of Legends teams of all regions and leagues.

@@ -39,10 +39,10 @@ Welcome to my portfolio! Here you'll find a selection of my top projects in the 
    - **Key Technologies**: Python, TensorFlow, Machine Learning, U-Net Model
 
 ## Skills & Technologies
-- GIS: Esri ArcGIS Desktop Suite, FME Flow (Server) & Form (Workbench), ArcGIS Online, ArcGIS Enterprise (Server/Portal), GDB, ArcSDE/Datastore
-- Data Management and Analytics: Power BI, Power Automate, SSIS, SSAS, Microsoft SQL Server, Microsoft Access
-- Programming and Scripting: Python (ArcPy, NumPy, TensorFlow, Pandas), R, Java, JavaScript, HTML/CSS, PHP, React
-- DevOps: Azure Devops, YAML Configuration & E2E Pipeline Development 
+- **GIS**: Esri ArcGIS Desktop Suite, FME Flow (Server) & Form (Workbench), ArcGIS Online, ArcGIS Enterprise (Server/Portal), GDB, ArcSDE/Datastore
+- **Data Management and Analytics**: Power BI, Power Automate, SSIS, SSAS, Microsoft SQL Server, Microsoft Access
+- **Programming and Scripting**: Python (ArcPy, NumPy, TensorFlow, Pandas), R, Java, JavaScript, HTML/CSS, PHP, React
+- **DevOps**: Azure Devops, YAML Configuration & E2E Pipeline Development 
 - **GIS & Spatial Data**: ArcGIS, QGIS, SQL, PostGIS, GeoJSON
 - **Game Development**: Roblox Studio, Lua
 

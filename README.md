@@ -18,18 +18,17 @@ Welcome to my portfolio! Here you'll find a selection of my top projects in the 
    - **Key Technologies**: ArcGIS, SQL, ArcGIS Online Dashboards
    - ![image](https://github.com/user-attachments/assets/7199361e-3d92-4b9c-93db-0cf9c0741127)
 
-
-
 3. **[Roblox Game - Morph Wars](https://www.roblox.com/games/178904940/Morph-Wars)**
-   - **Description**: Created an interactive fighting game on Roblox with custom models, textures, and scripts. Awarded for having over 1,000 monthly active users.
-   - **Key Technologies**: Roblox Studio, Lua, Game Design
-   - [Link to demo](https://www.roblox.com/games/178904940/Morph-Wars)
+   - **Description**: Created an interactive fighting game on Roblox back in 2014 & 2015 with custom models, textures, and scripts. Awarded for having over 1,000 monthly active users.
+   - **Key Technologies**: Roblox Studio, Lua, Game Design, Photoshop
+   - [Link to Game](https://www.roblox.com/games/178904940/Morph-Wars)
+   - [Link to Random User's experience](https://www.youtube.com/watch?v=-Emd4e3P3Fg)
   
-4. **[Address Manager - 3D Unit Management](https://github.com/yourusername/address-manager)**
-   - **Description**: Developed a web-based application to manage addresses and visualize condo unit information in 3D. Allows users to interact with both 2D and 3D geospatial data, offering real-time updates and unit-level details.
-   - **Key Technologies**: React.js, WebGL, CesiumJS, Node.js, PostgreSQL (PostGIS), ArcGIS
-   - [Link to demo](https://yourusername.github.io/address-manager)
-
+4. **[Address Manager - 3D Unit Management](https://www.esri.ca/en-ca/products/specialized-applications/address-manager)**
+   - **Description**: As part of the Next Generation - 911 Initiative by 2025, Addressing information is to be standardized and follow the NENA (National Emergency Number Association Model)
+   - Implemented and configured the Address Manager Product by ESRI to meet multiple Municipalities' addressing requirements 
+   - **Key Technologies**: ArcGIS Enterprise, SQL, SDE, ArcGIS Pro, ArcGIS Server, ArcGIS Portal
+   - ![image](https://github.com/user-attachments/assets/969087ba-b99a-48d4-b524-3459d062bbce)
 
 5. **[U-Net Model for TIFF Image Digitization](https://docs.google.com/document/d/1raYz2zrRknAPUBK9Bm6A6dFupCeyXSXyDBRPMkmKYEQ/edit?usp=sharing)**
    - **Description**: Conducted a comparative analysis of U-Net performance for digitizing TIFF images of road infrastructure using machine learning. Experimented with different learning rates for enhanced performance.

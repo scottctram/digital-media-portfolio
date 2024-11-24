@@ -21,6 +21,8 @@ Welcome to my portfolio! Here you'll find a selection of my top projects in the 
 3. **[Roblox Game - Morph Wars](https://www.roblox.com/games/178904940/Morph-Wars)**
    - **Description**: Created an interactive fighting game on Roblox back in 2014 & 2015 with custom models, textures, and scripts. Awarded for having over 1,000 monthly active users.
    - **Key Technologies**: Roblox Studio, Lua, Game Design, Photoshop
+   - ![image](https://github.com/user-attachments/assets/d4585fb0-1cea-4895-8f35-ef2153c9b045)
+   - ![image](https://github.com/user-attachments/assets/7008940f-7eac-436b-a436-951ae5415788)
    - [Link to Game](https://www.roblox.com/games/178904940/Morph-Wars)
    - [Link to Random User's experience](https://www.youtube.com/watch?v=-Emd4e3P3Fg)
   

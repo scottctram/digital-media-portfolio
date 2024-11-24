@@ -14,9 +14,11 @@ Welcome to my portfolio! Here you'll find a selection of my top projects in the 
    - [Link to Website](https://rankings.lol)
    
 2. **[YRT Spatial Dashboard - Bus Routes & Stops](https://github.com/yourusername/YRT-Spatial-Dashboard)**
-   - **Description**: Developed an interactive spatial dashboard for York Region Transit, displaying bus routes and stops. Utilized SQL queries to calculate intersections and directions between stops.
-   - **Key Technologies**: ArcGIS, SQL, JavaScript, Leaflet.js
-   - [Link to demo](#)
+   - **Description**: Developed an interactive spatial dashboard for York Region Transit, displaying bus routes and stops. Utilized complex SQL queries to calculate intersections and directions between stops.
+   - **Key Technologies**: ArcGIS, SQL, ArcGIS Online Dashboards
+   - ![image](https://github.com/user-attachments/assets/7199361e-3d92-4b9c-93db-0cf9c0741127)
+
+
 
 3. **[Roblox Game - Morph Wars](https://www.roblox.com/games/178904940/Morph-Wars)**
    - **Description**: Created an interactive fighting game on Roblox with custom models, textures, and scripts. Awarded for having over 1,000 monthly active users.

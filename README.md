@@ -35,15 +35,8 @@ Welcome to my portfolio! Here you'll find a selection of my top projects in the 
 
 5. **[U-Net Model for TIFF Image Digitization](https://docs.google.com/document/d/1raYz2zrRknAPUBK9Bm6A6dFupCeyXSXyDBRPMkmKYEQ/edit?usp=sharing)**
    - **Description**: Conducted a comparative analysis of U-Net performance for digitizing TIFF images of road infrastructure using machine learning. Experimented with different learning rates for enhanced performance.
+   - ![image](https://github.com/user-attachments/assets/7375e7b2-ffd4-445b-b3db-99b96c86b4e1)
    - **Key Technologies**: Python, TensorFlow, Machine Learning, U-Net Model
-   - [Link to demo](#)
-
-6. **[GIS Web Maps for Volunteer Management](https://docs.google.com/document/d/1_yerQVhjqj9lE3GNyozs8EWmKkzA8A_edD-dMvE0DGQ/edit?usp=sharing)**
-   - **Description**: Developed a web-based application to track volunteer locations and activities using GIS mapping. Enabled users to submit points of interest via a form.
-   - **Key Technologies**: Leaflet.js, GeoJSON, JavaScript, HTML/CSS
-   - [Link to demo](#)
-
----
 
 ## Skills & Technologies
 - **GIS & Spatial Data**: ArcGIS, QGIS, SQL, PostGIS, GeoJSON

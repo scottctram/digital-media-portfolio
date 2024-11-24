@@ -9,6 +9,7 @@ Welcome to my portfolio! Here you'll find a selection of my top projects in the 
    - Collaborated as part of a high-ranking team in the AWS x Riot Games hackathon, placing in the top 10 out of hundreds of competing teams by employing innovative strategies and effective teamwork to solve complex   challenges.
    - Developed and launched the Rankings.lol website, employing Machine Learning algorithms, Amazon Web Services (AWS) infrastructure, and Riot Games data to establish a globally recognized power ranking system for League of Legends Esports professional teams.
    - To ensure an engaging user experience, contributed to the development of the frontend using React, implementing intuitive design principles and responsive functionalities.
+   - ![image](https://github.com/user-attachments/assets/cd9dbd81-39ca-4b04-ace6-990e7e2d1a93)
    - [Top 10 Winner](https://lolglobalpowerrankings.devpost.com/project-gallery)
    - [DevPost Page](https://devpost.com/software/whitby-test)
    - [Link to Website](https://rankings.lol)

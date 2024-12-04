@@ -27,7 +27,7 @@ Welcome to my portfolio! Here you'll find a selection of my top projects in the 
    - [Link to Game](https://www.roblox.com/games/178904940/Morph-Wars)
    - [Link to Random User's experience](https://www.youtube.com/watch?v=-Emd4e3P3Fg)
   
-4. **[Address Manager - 3D Unit Management](https://www.esri.ca/en-ca/products/specialized-applications/address-manager)** Role: Implementer & Data Management
+4. **[Address Manager](https://www.esri.ca/en-ca/products/specialized-applications/address-manager)** Role: Implementer & Data Management
    - **Description**: As part of the Next Generation - 911 Initiative by 2025, Addressing information is to be standardized and follow the NENA (National Emergency Number Association Model)
    - Implemented and configured the Address Manager Product by ESRI to meet multiple Municipalities' addressing requirements 
    - **Key Technologies**: ArcGIS Enterprise, SQL, SDE, ArcGIS Pro, ArcGIS Server, ArcGIS Portal
